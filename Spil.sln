@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spil", "Spil.csproj", "{F92CBC84-CB24-41A5-B3B0-47E2971B21A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92CBC84-CB24-41A5-B3B0-47E2971B21A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92CBC84-CB24-41A5-B3B0-47E2971B21A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92CBC84-CB24-41A5-B3B0-47E2971B21A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92CBC84-CB24-41A5-B3B0-47E2971B21A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D762E5AD-F87D-43D7-8DBD-DD5A5CD29CB2}
+	EndGlobalSection
+EndGlobal
